@@ -1,4 +1,4 @@
-#Offline Learning Platform
+# Offline Learning Platform
 
 ## Background
 In 2016 I was volunteering for a few organizations to set up a computer lab in Kisumu, Kenya. I came across [RACHEL Offline](http://dev.worldpossible.org/cgi/rachelmods.pl) (Remote Area Community Hotspot for Education and Learning) for the lab. It's basically a USB or a Raspberry Pi device that spins up a webserver and serves [free learning content](http://dev.worldpossible.org/cgi/rachelmods.pl) for the clients (mobile or desktop) to browse and consume.
@@ -25,4 +25,4 @@ The application should also support the following:
 * Markdown based. I think this could future-proof them. There are also many existing tools to produce and render markdowns we can re-use. Something like https://readthedocs.org/ and its [Sphinx theme](https://github.com/rtfd/sphinx_rtd_theme) for example.
 
 ## Notes
-This is an idea I have for a side project and want to throw it out there. I'll be growing this document as I test the idea with various NGOs and will start working on it once the idea is more solid. If you're interested in working on this with me, msg me through github or twitter @r4ndw.
+This is an idea I have for a side project and want to throw it out there. I'll be growing this document as I test the idea with various NGOs and will start working on it once it's more solid. If you're interested in working on this with me, msg me through github or twitter [@r4ndw](https://twitter.com/r4ndw).
