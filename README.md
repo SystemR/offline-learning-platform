@@ -24,5 +24,8 @@ The application should also support the following:
 * Peer-to-peer sharing of the synced contents. Once someone has the content in their laptop, it should be able easy for them to share with other laptops ala AirDrop or use mesh networking if the hardware supports it.
 * Markdown based. I think this could future-proof them. There are also many existing tools to produce and render markdowns we can re-use. Something like https://readthedocs.org/ and its [Sphinx theme](https://github.com/rtfd/sphinx_rtd_theme) for example.
 
+## Content Consideration
+* Quizzes. It is important to have the content requires a degree of interactivity. Even re-typing a Hello World line keeps them engaged. These quizzes might require custom JS to verify answers.
+
 ## Notes
 This is an idea I have for a side project and want to throw it out there. I'll be growing this document as I test the idea with various NGOs and will start working on it once it's more solid. If you're interested in working on this with me, msg me through github or twitter [@r4ndw](https://twitter.com/r4ndw).
